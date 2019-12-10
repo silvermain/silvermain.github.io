@@ -42,7 +42,7 @@ roles:
    end: Ongoing
    employer: SENA
    description: R&D for "Generation of technological strategies for the rational use of antibiotics"; government public info. available <a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M3251875-0347-5/view">here</a>
- - title: Director of the Computer Science Engineering academic program
+ - title: Director of the Computer Science academic program
    start: 2018
    end: 2019
    employer: University of Ibague
@@ -52,11 +52,21 @@ roles:
    end: 2017
    employer: Zemoga
    description: Working as a senior engineer, I worked closely with international clients specialized on financial advisory services, I was involved in several aspects of the technology including the back-end services.
- - title: Associate Manager
+ - title: Computer Science academic program assistant professor
+   start: 2009
+   end: 2015
+   employer: University of Ibague
+   description: HERE COMES DESCRIPTION
+- title: Computer Science academic program assistant professor
+   start: 2007
+   end: 2009
+   employer: EAN University
+   description: HERE COMES DESCRIPTION
+- title: Member Technical Staff
    start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   end: 2007
+   employer: Commoca, Inc.
+   description: HERE COMES DESCRIPTION
 
 #Education is required
 education:

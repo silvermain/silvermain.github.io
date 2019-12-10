@@ -41,16 +41,16 @@ roles:
    start: 2019
    end: Ongoing
    employer: SENA
-   description: R&D for "Generation of technological strategies for the rational use of antibiotics"
+   description: R&D for "Generation of technological strategies for the rational use of antibiotics"; government public info. available <a href="https://www.funcionpublica.gov.co/web/sigep/hdv/-/directorio/M3251875-0347-5/view">here</a>
+ - title: Director of the Computer Science Engineering academic program
+   start: 2018
+   end: 2019
+   employer: University of Ibague
+   description: Responible of the design and delivery of high quality learning opportunities for students on the Computer Science program and courses offered as service to the Engineering faculty.
  - title: Senior Engineer
-   start: 2016
+   start: 2015
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
+   employer: Zemoga
    description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
  - title: Associate Manager
    start: 2005

@@ -43,25 +43,25 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Research and Development Assistant
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
+   employer: SENA
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
+ - title: Program Director
+   start: 2018
+   end: 2019
+   employer: Unibague
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
+ - title: Senior Developer
+   start: 2015
+   end: 2017
+   employer: Zemoga
    description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
+ - title: Assistant Professor
+   start: 2009
+   end: 2015
+   employer: Unibague
    description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
 
 #Education is required
@@ -115,7 +115,7 @@ stackoverflow:
    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  Experienced professional on analysis, design and development of software products. Strong organization skills on IT, management, research and development for projects. Highly motivated with proven leadership skills, keeping goals in mind while working independently or as part of a team. Easy going person with people at all levels. Quick learning while developing new skills.<br/><br/>.
+  Experienced professional on analysis, design and development of software products. Strong organization skills on IT, management, research and development for projects. Highly motivated with proven leadership skills, keeping goals in mind while working independently or as part of a team. Easy going person with people at all levels. Quick learning while developing new skills.<br/><br/>
   9+ years as a software designer and developer of information systems and Web applications. 5+ years of experience as a Systems and Network Administrator focusing on Open Source solutions. 7+ years of experience as an instructor for higher education in Engineering undergraduate programs. Solid background in software development techniques and methodologies.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML

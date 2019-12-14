@@ -108,6 +108,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
   - gmoralesc/costelog
+  - silvermain/spring-boot-cloud-config-store
 # - robhinds/robhinds.github.io
 # - robhinds/ScaLambda
 # - robhinds/opinionated-akka-http

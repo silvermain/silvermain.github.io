@@ -32,6 +32,7 @@ skills:
  - REST
  - Technical Architecture
  - Linux
+ - Git
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -68,6 +69,11 @@ roles:
    end: 2007
    employer: Commoca
    description: IT Manager and Systems and Network Administrator.
+ - title: Systems and Network Administrator Assistant
+   start: 2001
+   end: 2003
+   employer: Electrical and Computer Engineering Department, University of Puerto Rico. Mayagüez
+   description: Systems and Network Administrator Assistant as part of MScPE scholarship
    
 #Education is required
 education:

@@ -63,13 +63,22 @@ roles:
    end: 2009
    employer: EAN University
    description: Engineering Faculty Assistant Professor.
-
+ - title: Member Technical Staff
+   start: 2005
+   end: 2007
+   employer: Commoca
+   description: IT Manager and Systems and Network Administrator.
+   
 #Education is required
 education:
+ - level: Master of Science in Computer Engineering (MSCpE)
+   date: 2005
+   subject: A New Multidimensional Crystallographic Fast Fourier Transform
+   school: University of Puerto Rico
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   date: 1999
+   subject: Information Systems Design
+   school: Francisco Jose de Caldas District University
 
 #This section is optional (as is the image link below)
 coursera:

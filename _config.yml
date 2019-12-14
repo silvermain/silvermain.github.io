@@ -33,7 +33,7 @@ skills:
  - Technical Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -41,7 +41,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: SENA
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   description: Contractor as a Research assistant for the Responsible Use of Antibiotics project - SENNOVA - GESICOM Research Group.
  - title: Program Director
    start: 2018
    end: 2019
